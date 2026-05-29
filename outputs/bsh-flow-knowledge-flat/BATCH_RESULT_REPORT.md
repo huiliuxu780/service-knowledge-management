@@ -1,0 +1,39 @@
+# BSH Flow to Knowledge Batch Report
+
+| source_file | product_code | product_name | version | tree_count | index_file |
+| --- | --- | --- | --- | --- | --- |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_制冷产品故障树_V1.1.pptx | REF | 制冷产品 | V1.1 | 21 | BSH_REF_V1.1_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_家用小电器(咖啡机)故障树_V1.1.pptx | CM | 咖啡机 | V1.1 | 9 | BSH_CM_V1.1_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_微波烤箱(炉)故障树_V1.0.pptx | MW | 微波炉 | V1.0 | 10 | BSH_MW_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_暖碟(烹饪)抽屉故障树_V1.0.pptx | WDW | 暖碟抽屉 | V1.0 | 5 | BSH_WDW_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_洗碗机产品故障树_V1.0.pptx | DW | 洗碗机 | V1.0 | 18 | BSH_DW_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_烟机产品故障树_V1.0.pptx | RH | 吸油烟机 | V1.0 | 10 | BSH_RH_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_烤箱产品故障树_V1.0.pptx | OVEN | 烤箱 | V1.0 | 4 | BSH_OVEN_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_燃气灶故障树_V1.0.pptx | HOB | 燃气灶 | V1.0 | 14 | BSH_HOB_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/1/GGN_蒸箱故障树_V1.1.pptx | STM | 蒸箱 | V1.1 | 9 | BSH_STM_V1.1_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/07-吸油烟机故障树_V1.0.pptx | RH2 | 吸油烟机 | V1.0 | 9 | BSH_RH2_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/09-蒸箱故障树_V1.0.pptx | STM2 | 蒸箱 | V1.0 | 7 | BSH_STM2_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/1.普通冰箱故障树_V1.0.pptx | FR | 普通冰箱 | V1.0 | 18 | BSH_FR_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/10-烤箱故障树_V1.0.pptx | OVEN2 | 烤箱 | V1.0 | 4 | BSH_OVEN2_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/11-洗碗机故障树_V1.0.pptx | DW2 | 洗碗机 | V1.0 | 20 | BSH_DW2_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/15-微波炉故障树_V1.0.pptx | MW2 | 微波炉 | V1.0 | 10 | BSH_MW2_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/16-微蒸烤（三合一）故障树_V_1.0.pptx | CMO | 微蒸烤 | V1.0 | 11 | BSH_CMO_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/17-晶御智能咨询故障树.pptx | JY | 晶御智能咨询 | V1.0 | 12 | BSH_JY_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/4.酒柜故障树_V1.0.pptx | WC | 酒柜 | V1.0 | 11 | BSH_WC_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/5.洗衣机、洗干一体机故障树_V1.01.pptx | WD | 洗衣机、洗干一体机 | V1.01 | 29 | BSH_WD_V1.01_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/6.干衣机故障树_V1.0.pptx | DRY | 干衣机 | V1.0 | 8 | BSH_DRY_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/Cookit智能烹饪机_1.0.pptx | CKT | Cookit智能烹饪机 | V1.0 | 4 | BSH_CKT_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/加热破壁机（已完成）V _1.0.pptx | HB | 加热破壁机 | V1.0 | 3 | BSH_HB_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/厨师机_V_1.0.pptx | SM | 厨师机 | V1.0 | 9 | BSH_SM_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/各产品组安装操作指南-new.pptx | INST | 安装操作指南 | V1.0 | 4 | BSH_INST_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/吸尘器 V _1.0.pptx | VC | 吸尘器 | V1.0 | 9 | BSH_VC_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/咖啡机 V_1.0.pptx | CM2 | 咖啡机 | V1.0 | 9 | BSH_CM2_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/壁挂式洗衣机故障树_V1.0.pptx | WMW | 壁挂式洗衣机 | V1.0 | 28 | BSH_WMW_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/嵌饮机故障树 V_1.00.pptx | BDM | 嵌饮机 | V1.00 | 12 | BSH_BDM_V1.00_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/打蛋器（已完成）V _1.0.pptx | HM | 打蛋器 | V1.0 | 3 | BSH_HM_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/抽屉蒸箱_V1.0.pptx | DSTM | 抽屉蒸箱 | V1.0 | 24 | BSH_DSTM_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/料理机 V _1.0.pptx | BLD | 料理机 | V1.0 | 5 | BSH_BLD_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/暖碟抽屉V_1.0.pptx | WDW2 | 暖碟抽屉 | V1.0 | 2 | BSH_WDW2_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/消毒柜故障树_V1.0.pptx | DCAB | 消毒柜 | V1.0 | 11 | BSH_DCAB_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/电热水器_V1.0.pptx | EWH | 电热水器 | V1.0 | 14 | BSH_EWH_V1.0_index.md |
+| /Users/mac/Desktop/未命名文件夹 2/新建文件夹/种植机V_1.0.pptx | PLT | 种植机 | V1.0 | 3 | BSH_PLT_V1.0_index.md |
