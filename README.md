@@ -17,7 +17,9 @@ BSH 售后服务知识库（安装 / 故障诊断 / 产品培训）— 多文件
 │   └── image-to-knowledge/         # 图片 → 知识图卡（带 references/）
 │
 ├── tools/                       # 可执行脚本（CI / 人工运行）
-│   └── image_to_knowledge.py
+│   ├── bsh_flow_to_knowledge_batch.py
+│   ├── image_to_knowledge.py
+│   └── volcengine_kb_import.py
 │
 ├── install/                     # 安装类知识库（按批次版本）
 │   └── v2026.01/                # 一份 PDF 覆盖全产品 → 一个版本目录
@@ -111,7 +113,7 @@ BSH 售后服务知识库（安装 / 故障诊断 / 产品培训）— 多文件
 
 ### 同步到火山引擎
 1. 读取 `manifests/volcengine/*.jsonl`。
-2. 用 `tools/volcengine_kb_import.py`（待补）按清单上传。
+2. 用 `tools/volcengine_kb_import.py` 按清单上传。
 3. 上传后更新清单的 checksum / upload_at 字段并 commit。
 
 ---
@@ -119,6 +121,4 @@ BSH 售后服务知识库（安装 / 故障诊断 / 产品培训）— 多文件
 ## 待补 / TODO
 
 - [ ] `skills/bsh-flow-to-knowledge/SKILL.md` 待补充（原始 Skill 文件未在此次迁移中入库）
-- [ ] `tools/bsh_flow_to_knowledge_batch.py` 批处理脚本入库
-- [ ] `tools/volcengine_kb_import.py` 火山引擎自动上传脚本
-- [ ] 为 `install/v2026.01/` 也生成 `manifests/volcengine/install-v2026.01.jsonl`
+- [ ] 为 `install/v2026.01/` 生成 `manifests/volcengine/install-v2026.01.jsonl`
