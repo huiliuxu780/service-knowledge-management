@@ -1,0 +1,41 @@
+# ===== 中间产物（不入库） =====
+bsh_pdf_work/
+runs/
+outputs/
+*.zip
+
+# ===== 大文件 / 二进制源文件 =====
+*.pdf
+*.pptx
+*.ppt
+*.png
+*.jpg
+*.jpeg
+
+# ===== 历史 CSV（统一用 JSONL） =====
+batch_summary.csv
+database_upload_manifest.csv
+omission_audit_per_ppt.csv
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# ===== IDE / OS =====
+.qoder/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ===== Node（如果以后上工具）=====
+node_modules/
+
+# ===== 临时 =====
+*.tmp
+*.swp
+*.bak
