@@ -25,10 +25,10 @@ Do not use for:
 
 ## Required Workflow
 
-1. Create or choose a run directory. Use `scripts/image_to_knowledge.py scaffold-run` when a new run folder is needed.
+1. Create or choose a run directory. Use `tools/image_to_knowledge.py scaffold-run` when a new run folder is needed.
 2. Run preflight before recognition:
    ```bash
-   python3 scripts/image_to_knowledge.py preflight <image-or-dir> --output-dir <run>/work --run-id <run_id>
+   python3 tools/image_to_knowledge.py preflight <image-or-dir> --output-dir <run>/work --run-id <run_id>
    ```
 3. Perform visual recognition and write `*_raw_extraction.md` first. Raw extraction must be organized by `IMG-xx`, region, and line IDs such as `[A-1]`.
 4. If small text, dense tables, low resolution, dark backgrounds, uncertainty, or user request triggers enhancement, create region crops with `crop`. If region coordinates are unreliable, create fallback grid crops with `grid`.
@@ -62,11 +62,11 @@ The helper script is deterministic and zero-dependency-first:
 
 Commands:
 ```bash
-python3 scripts/image_to_knowledge.py scaffold-run --base-dir ./runs --run-id RUN001
-python3 scripts/image_to_knowledge.py preflight ./input --output-dir ./runs/RUN001/work --run-id RUN001
-python3 scripts/image_to_knowledge.py crop --manifest ./runs/RUN001/work/RUN001_manifest.json --regions ./runs/RUN001/work/regions.json --output-dir ./runs/RUN001/crops
-python3 scripts/image_to_knowledge.py grid --manifest ./runs/RUN001/work/RUN001_manifest.json --output-dir ./runs/RUN001/crops/grid --rows 2 --cols 2
-python3 scripts/image_to_knowledge.py validate --manifest ./runs/RUN001/work/RUN001_manifest.json --raw ./runs/RUN001/output/BOSCH_x_K01_raw_extraction.md --knowledge ./runs/RUN001/output/BOSCH_x_K01_知识库.md --source-map ./runs/RUN001/output/BOSCH_x_K01_source_map.json --output-dir ./runs/RUN001/output
+python3 tools/image_to_knowledge.py scaffold-run --base-dir ./runs --run-id RUN001
+python3 tools/image_to_knowledge.py preflight ./input --output-dir ./runs/RUN001/work --run-id RUN001
+python3 tools/image_to_knowledge.py crop --manifest ./runs/RUN001/work/RUN001_manifest.json --regions ./runs/RUN001/work/regions.json --output-dir ./runs/RUN001/crops
+python3 tools/image_to_knowledge.py grid --manifest ./runs/RUN001/work/RUN001_manifest.json --output-dir ./runs/RUN001/crops/grid --rows 2 --cols 2
+python3 tools/image_to_knowledge.py validate --manifest ./runs/RUN001/work/RUN001_manifest.json --raw ./runs/RUN001/output/BOSCH_x_K01_raw_extraction.md --knowledge ./runs/RUN001/output/BOSCH_x_K01_知识库.md --source-map ./runs/RUN001/output/BOSCH_x_K01_source_map.json --output-dir ./runs/RUN001/output
 ```
 
 ## Quality Rules

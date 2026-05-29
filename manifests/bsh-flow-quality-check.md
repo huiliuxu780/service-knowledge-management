@@ -2,382 +2,382 @@
 
 | file | status | missing |
 | --- | --- | --- |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F02_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F03_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F04_不加热.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F05_故障代码.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F06_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F07_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F08_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F09_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F10_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F11_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BDM_F12_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BLD_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BLD_F02_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BLD_F03_噪音.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BLD_F04_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_BLD_F05_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CKT_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CKT_F02_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CKT_F03_异响.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CKT_F04_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F01_检测不到咖啡豆.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F02_检测不到水箱.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F03_不出咖啡.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F04_不出热水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F05_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F06_奶泡效果不好.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F07_不出奶泡.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F08_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM2_F09_清洁除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F03_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F04_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F05_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F06_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F07_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F08_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F09_清洁除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F10_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CMO_F11_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F01_检测不到咖啡豆.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F02_检测不到水箱.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F03_不出咖啡.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F04_不出热水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F05_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F06_奶泡效果不好.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F07_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F08_清洁除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_CM_F09_过滤器无法取出.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F03_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F04_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F05_不加热.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F06_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F07_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F08_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F09_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F10_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DCAB_F11_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F02_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F03_烘干效果差.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F04_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F05_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F06_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F07_烘干效果差.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DRY_F08_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F03_水垢残留.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F04_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F05_检测不到水箱.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F06_冷凝水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F07_漏蒸汽.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F08_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F09_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F10_蒸汽.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F11_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F12_不停机.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F13_不进水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F14_清洁除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F15_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F16_腔体生锈.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F17_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F18_抽屉拉不出来.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F19_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F20_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F21_冷凝水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F22_腔体外观变形.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F23_积水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DSTM_F24_跳闸.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F03_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F04_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F05_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F06_洗不干净.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F07_水垢残留.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F08_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F09_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F10_水垢残留.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F11_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F12_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F13_烘干效果差.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F14_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F15_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F16_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F17_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F18_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F19_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW2_F20_洗涤用品摆放.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F03_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F04_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F05_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F06_洗不干净.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F07_水垢残留.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F08_洗不干净.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F09_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F10_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F11_烘干效果差.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F12_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F13_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F14_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F15_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F16_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F17_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_DW_F18_其他操作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F01_故障代码.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F02_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F03_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F04_清洁除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F05_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F06_不加热.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F07_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F08_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F09_不加热.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F10_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F11_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F12_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F13_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_EWH_F14_不加热.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F02_不制冷.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F03_不停机.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F04_噪音.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F05_报警.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F06_结冰结霜.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F07_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F08_门关不严.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F09_门封紧.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F10_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F11_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F12_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F13_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F14_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F15_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F16_积水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F17_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_FR_F18_箱体表面有水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HB_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HB_F02_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HB_F03_故障代码.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HM_F01_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HM_F02_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HM_F03_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F01_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F02_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F03_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F04_报警.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F05_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F06_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F07_奶锅架不平.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F08_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F09_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F10_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F11_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F12_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F13_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_HOB_F14_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_INST_F01_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_INST_F02_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_INST_F03_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_INST_F04_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F01_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F02_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F03_E代码.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F04_故障代码.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F05_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F06_频繁掉线.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F07_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F08_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F09_第三方生态合.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F10_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F11_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_JY_F12_配对视频.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F03_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F04_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F05_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F06_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F07_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F08_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F09_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW2_F10_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F03_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F04_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F05_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F06_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F07_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F08_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F09_故障代码.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_MW_F10_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN2_F01_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN2_F02_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN2_F03_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN2_F04_外观生锈.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN_F01_加热异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN_F02_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN_F03_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_OVEN_F04_外观生锈.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_PLT_F01_种植前-.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_PLT_F02_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_PLT_F03_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F02_不制冷.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F03_不停机.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F04_报警.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F05_噪音.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F06_结冰结霜.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F07_积水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F08_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F09_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F10_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F11_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F12_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F13_门关不严.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F14_门封紧.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F15_门不平.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F16_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F17_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F18_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F19_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F20_不制冷.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_REF_F21_不出热水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F01_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F02_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F03_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F04_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F05_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F06_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F07_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F08_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH2_F09_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F01_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F02_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F03_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F04_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F05_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F06_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F07_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F08_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F09_显示异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_RH_F10_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F01_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F02_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F03_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F04_噪音.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F05_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F06_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F07_如问题未解决.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F08_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_SM_F09_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM2_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM2_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM2_F03_除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM2_F04_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM2_F05_检测不到水箱.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM2_F06_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM2_F07_清洁除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F02_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F03_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F04_检测不到水箱.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F05_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F06_食物损坏.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F07_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F08_清洁除垢.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_STM_F09_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F01_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F02_异响.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F03_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F04_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F05_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F06_第9页.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F07_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F08_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_VC_F09_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F01_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F02_噪音.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F03_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F04_不制冷.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F05_报警.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F06_结冰结霜.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F07_积水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F08_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F09_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F10_照明灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WC_F11_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WDW2_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WDW2_F02_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WDW_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WDW_F02_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WDW_F03_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WDW_F04_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WDW_F05_不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F02_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F03_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F04_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F05_异响.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F06_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F07_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F08_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F09_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F10_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F11_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F12_烘干效果差.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F13_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F14_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F15_烘干效果差.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F16_洗不干净.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F17_不加热.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F18_其他问题-进.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F19_其他问题-衣.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F20_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F21_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F22_洗不干净.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F23_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F24_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F25_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F26_积水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F27_其他问题-外.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F28_其他问题-变.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WD_F29_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F01_不通电.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F02_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F03_通电不工作.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F04_灯异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F05_异响.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F06_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F07_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F08_安装.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F09_异常显示.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F10_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F11_漏水.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F12_运行时间.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F13_按键异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F14_异味.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F15_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F16_洗不干净.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F17_不加热.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F18_其他问题-进.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F19_其他问题-衣.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F20_门异常.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F21_清洁.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F22_洗不干净.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F23_其他问题-边.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F24_返回目录.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F25_其他问题-外.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F26_其他问题-变.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F27_跳闸.md | PASS |  |
-| /Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat/BSH_WMW_F28_漏电、麻手.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F01_不通电.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F02_清洁.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F03_加热异常.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F04_不加热.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F05_故障代码.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F06_按键异常.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F07_灯异常.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F08_安装.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F09_异常显示.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F10_异味.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F11_异常显示.md | PASS |  |
+| fault-diagnosis/BDM_嵌饮机/BSH_BDM_F12_不通电.md | PASS |  |
+| fault-diagnosis/BLD_料理机/BSH_BLD_F01_不通电.md | PASS |  |
+| fault-diagnosis/BLD_料理机/BSH_BLD_F02_不工作.md | PASS |  |
+| fault-diagnosis/BLD_料理机/BSH_BLD_F03_噪音.md | PASS |  |
+| fault-diagnosis/BLD_料理机/BSH_BLD_F04_不工作.md | PASS |  |
+| fault-diagnosis/BLD_料理机/BSH_BLD_F05_食物损坏.md | PASS |  |
+| fault-diagnosis/CKT_智能烹饪机/BSH_CKT_F01_不通电.md | PASS |  |
+| fault-diagnosis/CKT_智能烹饪机/BSH_CKT_F02_异常显示.md | PASS |  |
+| fault-diagnosis/CKT_智能烹饪机/BSH_CKT_F03_异响.md | PASS |  |
+| fault-diagnosis/CKT_智能烹饪机/BSH_CKT_F04_显示异常.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F01_检测不到咖啡豆.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F02_检测不到水箱.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F03_不出咖啡.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F04_不出热水.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F05_不通电.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F06_奶泡效果不好.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F07_不出奶泡.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F08_异常显示.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM2_F09_清洁除垢.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F01_不通电.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F03_食物损坏.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F04_通电不工作.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F05_门异常.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F06_按键异常.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F07_漏水.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F08_通电不工作.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F09_清洁除垢.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F10_通电不工作.md | PASS |  |
+| fault-diagnosis/CMO_微蒸烤一体机/BSH_CMO_F11_异常显示.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F01_检测不到咖啡豆.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F02_检测不到水箱.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F03_不出咖啡.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F04_不出热水.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F05_不通电.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F06_奶泡效果不好.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F07_异常显示.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F08_清洁除垢.md | PASS |  |
+| fault-diagnosis/CM_咖啡机/BSH_CM_F09_过滤器无法取出.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F01_不通电.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F03_按键异常.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F04_灯异常.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F05_不加热.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F06_门异常.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F07_按键异常.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F08_照明灯异常.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F09_不工作.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F10_门异常.md | PASS |  |
+| fault-diagnosis/DCAB_消毒柜/BSH_DCAB_F11_异常显示.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F01_不通电.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F02_门异常.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F03_烘干效果差.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F04_异常显示.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F05_按键异常.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F06_不通电.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F07_烘干效果差.md | PASS |  |
+| fault-diagnosis/DRY_干衣机/BSH_DRY_F08_漏水.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F01_不通电.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F03_水垢残留.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F04_异常显示.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F05_检测不到水箱.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F06_冷凝水.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F07_漏蒸汽.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F08_门异常.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F09_食物损坏.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F10_蒸汽.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F11_按键异常.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F12_不停机.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F13_不进水.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F14_清洁除垢.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F15_异味.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F16_腔体生锈.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F17_门异常.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F18_抽屉拉不出来.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F19_门异常.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F20_清洁.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F21_冷凝水.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F22_腔体外观变形.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F23_积水.md | PASS |  |
+| fault-diagnosis/DSTM_抽屉蒸箱/BSH_DSTM_F24_跳闸.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F01_不通电.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F03_异常显示.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F04_漏水.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F05_按键异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F06_洗不干净.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F07_水垢残留.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F08_不工作.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F09_清洁.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F10_水垢残留.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F11_灯异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F12_门异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F13_烘干效果差.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F14_按键异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F15_灯异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F16_异味.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F17_按键异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F18_异常显示.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F19_门异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW2_F20_洗涤用品摆放.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F01_不通电.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F03_异常显示.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F04_漏水.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F05_门异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F06_洗不干净.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F07_水垢残留.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F08_洗不干净.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F09_灯异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F10_门异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F11_烘干效果差.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F12_按键异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F13_灯异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F14_异味.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F15_按键异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F16_异常显示.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F17_门异常.md | PASS |  |
+| fault-diagnosis/DW_洗碗机/BSH_DW_F18_其他操作.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F01_故障代码.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F02_不通电.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F03_加热异常.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F04_清洁除垢.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F05_加热异常.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F06_不加热.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F07_漏水.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F08_异常显示.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F09_不加热.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F10_灯异常.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F11_加热异常.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F12_异味.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F13_按键异常.md | PASS |  |
+| fault-diagnosis/EWH_电热水器/BSH_EWH_F14_不加热.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F01_不通电.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F02_不制冷.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F03_不停机.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F04_噪音.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F05_报警.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F06_结冰结霜.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F07_灯异常.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F08_门关不严.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F09_门封紧.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F10_异味.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F11_照明灯异常.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F12_异常显示.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F13_按键异常.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F14_门异常.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F15_食物损坏.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F16_积水.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F17_食物损坏.md | PASS |  |
+| fault-diagnosis/FR_冰箱/BSH_FR_F18_箱体表面有水.md | PASS |  |
+| fault-diagnosis/HB_加热破壁机/BSH_HB_F01_不通电.md | PASS |  |
+| fault-diagnosis/HB_加热破壁机/BSH_HB_F02_异常显示.md | PASS |  |
+| fault-diagnosis/HB_加热破壁机/BSH_HB_F03_故障代码.md | PASS |  |
+| fault-diagnosis/HM_打蛋器/BSH_HM_F01_不工作.md | PASS |  |
+| fault-diagnosis/HM_打蛋器/BSH_HM_F02_不通电.md | PASS |  |
+| fault-diagnosis/HM_打蛋器/BSH_HM_F03_不工作.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F01_门异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F02_灯异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F03_显示异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F04_报警.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F05_显示异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F06_按键异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F07_奶锅架不平.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F08_门异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F09_显示异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F10_异常显示.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F11_不通电.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F12_加热异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F13_显示异常.md | PASS |  |
+| fault-diagnosis/HOB_燃气灶/BSH_HOB_F14_异常显示.md | PASS |  |
+| fault-diagnosis/INST_安装故障诊断/BSH_INST_F01_门异常.md | PASS |  |
+| fault-diagnosis/INST_安装故障诊断/BSH_INST_F02_安装.md | PASS |  |
+| fault-diagnosis/INST_安装故障诊断/BSH_INST_F03_门异常.md | PASS |  |
+| fault-diagnosis/INST_安装故障诊断/BSH_INST_F04_安装.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F01_门异常.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F02_按键异常.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F03_E代码.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F04_故障代码.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F05_按键异常.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F06_频繁掉线.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F07_按键异常.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F08_门异常.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F09_第三方生态合.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F10_门异常.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F11_灯异常.md | PASS |  |
+| fault-diagnosis/JY_晶御智能咨询/BSH_JY_F12_配对视频.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F01_不通电.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F03_不通电.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F04_照明灯异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F05_加热异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F06_不工作.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F07_加热异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F08_不工作.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F09_照明灯异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW2_F10_异常显示.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F01_不通电.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F03_照明灯异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F04_加热异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F05_食物损坏.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F06_加热异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F07_门异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F08_按键异常.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F09_故障代码.md | PASS |  |
+| fault-diagnosis/MW_微波炉/BSH_MW_F10_异常显示.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN2_F01_加热异常.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN2_F02_不通电.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN2_F03_异常显示.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN2_F04_外观生锈.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN_F01_加热异常.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN_F02_不通电.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN_F03_异常显示.md | PASS |  |
+| fault-diagnosis/OVEN_烤箱/BSH_OVEN_F04_外观生锈.md | PASS |  |
+| fault-diagnosis/PLT_种植机/BSH_PLT_F01_种植前-.md | PASS |  |
+| fault-diagnosis/PLT_种植机/BSH_PLT_F02_安装.md | PASS |  |
+| fault-diagnosis/PLT_种植机/BSH_PLT_F03_灯异常.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F01_不通电.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F02_不制冷.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F03_不停机.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F04_报警.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F05_噪音.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F06_结冰结霜.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F07_积水.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F08_食物损坏.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F09_照明灯异常.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F10_异常显示.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F11_门异常.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F12_灯异常.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F13_门关不严.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F14_门封紧.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F15_门不平.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F16_按键异常.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F17_食物损坏.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F18_异味.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F19_门异常.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F20_不制冷.md | PASS |  |
+| fault-diagnosis/REF_制冷产品/BSH_REF_F21_不出热水.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F01_不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F02_不通电.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F03_通电不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F04_不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F05_照明灯异常.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F06_按键异常.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F07_不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F08_显示异常.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH2_F09_异常显示.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F01_不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F02_不通电.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F03_通电不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F04_不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F05_显示异常.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F06_照明灯异常.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F07_按键异常.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F08_不工作.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F09_显示异常.md | PASS |  |
+| fault-diagnosis/RH_吸油烟机/BSH_RH_F10_异常显示.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F01_通电不工作.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F02_不通电.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F03_不工作.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F04_噪音.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F05_食物损坏.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F06_安装.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F07_如问题未解决.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F08_灯异常.md | PASS |  |
+| fault-diagnosis/SM_厨师机/BSH_SM_F09_漏水.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM2_F01_不通电.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM2_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM2_F03_除垢.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM2_F04_异常显示.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM2_F05_检测不到水箱.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM2_F06_通电不工作.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM2_F07_清洁除垢.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F01_不通电.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F02_通电不工作.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F03_异常显示.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F04_检测不到水箱.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F05_通电不工作.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F06_食物损坏.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F07_通电不工作.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F08_清洁除垢.md | PASS |  |
+| fault-diagnosis/STM_蒸箱/BSH_STM_F09_不工作.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F01_不工作.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F02_异响.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F03_不工作.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F04_不通电.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F05_不工作.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F06_第9页.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F07_灯异常.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F08_清洁.md | PASS |  |
+| fault-diagnosis/VC_吸尘器/BSH_VC_F09_不工作.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F01_门异常.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F02_噪音.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F03_不通电.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F04_不制冷.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F05_报警.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F06_结冰结霜.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F07_积水.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F08_照明灯异常.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F09_异常显示.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F10_照明灯异常.md | PASS |  |
+| fault-diagnosis/WC_酒柜/BSH_WC_F11_按键异常.md | PASS |  |
+| fault-diagnosis/WDW_暖碟抽屉/BSH_WDW2_F01_不通电.md | PASS |  |
+| fault-diagnosis/WDW_暖碟抽屉/BSH_WDW2_F02_不工作.md | PASS |  |
+| fault-diagnosis/WDW_暖碟抽屉/BSH_WDW_F01_不通电.md | PASS |  |
+| fault-diagnosis/WDW_暖碟抽屉/BSH_WDW_F02_按键异常.md | PASS |  |
+| fault-diagnosis/WDW_暖碟抽屉/BSH_WDW_F03_不工作.md | PASS |  |
+| fault-diagnosis/WDW_暖碟抽屉/BSH_WDW_F04_按键异常.md | PASS |  |
+| fault-diagnosis/WDW_暖碟抽屉/BSH_WDW_F05_不工作.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F01_不通电.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F02_门异常.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F03_通电不工作.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F04_灯异常.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F05_异响.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F06_安装.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F07_门异常.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F08_清洁.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F09_异常显示.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F10_按键异常.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F11_漏水.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F12_烘干效果差.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F13_按键异常.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F14_异味.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F15_烘干效果差.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F16_洗不干净.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F17_不加热.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F18_其他问题-进.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F19_其他问题-衣.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F20_门异常.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F21_清洁.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F22_洗不干净.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F23_门异常.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F24_异味.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F25_清洁.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F26_积水.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F27_其他问题-外.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F28_其他问题-变.md | PASS |  |
+| fault-diagnosis/WD_洗衣机/BSH_WD_F29_门异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F01_不通电.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F02_门异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F03_通电不工作.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F04_灯异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F05_异响.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F06_安装.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F07_门异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F08_安装.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F09_异常显示.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F10_门异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F11_漏水.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F12_运行时间.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F13_按键异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F14_异味.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F15_门异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F16_洗不干净.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F17_不加热.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F18_其他问题-进.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F19_其他问题-衣.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F20_门异常.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F21_清洁.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F22_洗不干净.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F23_其他问题-边.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F24_返回目录.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F25_其他问题-外.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F26_其他问题-变.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F27_跳闸.md | PASS |  |
+| fault-diagnosis/WMW_壁挂洗衣机/BSH_WMW_F28_漏电、麻手.md | PASS |  |

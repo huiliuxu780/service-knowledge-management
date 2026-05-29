@@ -55,8 +55,8 @@ def safe_doc_id(filename: str) -> str:
 
 def iter_markdown_files(source_dir: Path) -> list[Path]:
     files = sorted(
-        p for p in source_dir.glob("BSH_*.md")
-        if re.match(r"BSH_.*(_index|_F\d{2}_)", p.name)
+        p for p in source_dir.rglob("BSH_*.md")
+        if re.match(r"BSH_.*(_index|_F\d{2}_|_I\d{2}_)", p.name)
     )
     if not files:
         raise SystemExit(f"No BSH Markdown files found in {source_dir}")
@@ -120,12 +120,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--source-dir",
         type=Path,
-        default=Path("/Users/mac/Documents/故障树 v0.1/outputs/bsh-flow-knowledge-flat"),
+        default=Path("fault-diagnosis"),
+        help="Root directory containing BSH_*.md files (recurses into subdirs).",
     )
     parser.add_argument("--bucket", required=True, help="TOS bucket name")
     parser.add_argument("--tos-region", default="cn-beijing")
     parser.add_argument("--tos-endpoint", default="tos-cn-beijing.volces.com")
-    parser.add_argument("--tos-prefix", default="bsh-flow-knowledge-flat")
+    parser.add_argument("--tos-prefix", default="fault-diagnosis")
     target = parser.add_mutually_exclusive_group(required=True)
     target.add_argument("--collection-name")
     target.add_argument("--resource-id")
